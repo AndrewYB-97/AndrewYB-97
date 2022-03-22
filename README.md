@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#3776AB&logoColor=white"/></a>&nbsp 
+
 <!--
 **AndrewYB-1997/AndrewYB-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
